@@ -34,12 +34,12 @@ Unlike other hardcore servers, this server doesn't temporaryliy ban you when you
 
 ## Are You Ready?
 The server is coming soon. Here is our current development status.
-[x] Make a website
-[x] Put information about the server onto the website
-[ ] Make a wiki on github
-[ ] Make google form
-[ ] Get the server functional
-[ ] Make the lobby
+- [x] Make a website
+- [x] Put information about the server onto the website
+- [ ] Make a wiki on github
+- [ ] Make google form
+- [ ] Get the server functional
+- [ ] Make the lobby
 
 ### Alpha Testing
 If you would like to become an alpha tester, then wait for the google form. A Discord will come soon.
